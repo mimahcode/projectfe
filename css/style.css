@@ -17,6 +17,10 @@ body {
     font-size:13px;
     text-rendering:optimizeLegibility;
 }
+#palert, #phalert{
+    color: red;
+    font-size:12px;
+}
 ul li {
     list-style:none;
 }
