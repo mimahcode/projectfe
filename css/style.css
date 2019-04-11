@@ -73,6 +73,10 @@ a,a:hover,a:focus {
     font-family:'Open Sans',sans-serif;
     border-bottom:10px solid #5729ad;
 }
+#email, #phone {
+font-size: 12px;
+margin-bottom: 15px;
+}
 .form-signin .checkbox {
     margin-bottom:14px;
 }
